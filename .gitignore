@@ -1,0 +1,10 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+tfplan
+terraform/.build/
+bootstrap/terraform.tfvars
+__pycache__/
+*.pyc

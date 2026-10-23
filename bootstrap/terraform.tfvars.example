@@ -1,0 +1,4 @@
+aws_region        = "ap-south-1"
+project           = "hello"
+github_repository = "my-org/lambda-hello-api"
+state_bucket_name = "hello-terraform-state-123456789012"
